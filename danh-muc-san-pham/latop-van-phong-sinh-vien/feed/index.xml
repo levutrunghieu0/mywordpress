@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
 	<url>https://levutrunghieu0.github.io/mywordpress/wp-content/uploads/2021/06/MSI-Bravo-15-Ryzen-5-4600H-02-400x400-1.jpg</url>
@@ -563,7 +563,7 @@ Hệ điều hành:
 </tr>
 <tr>
 <td>Cổng giao tiếp</td>
-<td width="514">1 USB 3.1 Gen 1 Type-C<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (Data Transfer Only, 5 Gb/s signaling rate); 2 USB 3.1 Gen 1 Type-A (Data Transfer Only); 1 RJ-45; 1 AC smart pin; 1 HDMI 1.4b; 1 headphone/microphone combo</td>
+<td width="514">1 USB 3.1 Gen 1 Type-C<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (Data Transfer Only, 5 Gb/s signaling rate); 2 USB 3.1 Gen 1 Type-A (Data Transfer Only); 1 RJ-45; 1 AC smart pin; 1 HDMI 1.4b; 1 headphone/microphone combo</td>
 </tr>
 <tr>
 <td>Webcam</td>
@@ -669,7 +669,7 @@ Hệ điều hành:
 <tbody>
 <tr>
 <td>CPU</td>
-<td>: Intel® Core<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i5 8250u 1.6Ghz (upto 3.90GHz, 4 Cores, 8 Threads, 6MB Cache)</td>
+<td>: Intel® Core<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i5 8250u 1.6Ghz (upto 3.90GHz, 4 Cores, 8 Threads, 6MB Cache)</td>
 </tr>
 <tr>
 <td>Memory</td>
@@ -760,7 +760,7 @@ Hệ điều hành:
 <tbody>
 <tr>
 <td>CPU</td>
-<td>: Intel® Core<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i7-7500U 2.7GHz upto 3.5GHZ</td>
+<td>: Intel® Core<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> i7-7500U 2.7GHz upto 3.5GHZ</td>
 </tr>
 <tr>
 <td>Memory</td>
@@ -812,7 +812,7 @@ Hệ điều hành:
 </tr>
 <tr>
 <td>Option</td>
-<td>: 2 USB 3.1 Type-C<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Gen 1 (Data Transfer up to 5 Gb/s, Power Delivery,<br />
+<td>: 2 USB 3.1 Type-C<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Gen 1 (Data Transfer up to 5 Gb/s, Power Delivery,<br />
 : DP1.2, HP Sleep and Charge); 2 USB 3.1 Gen 1 (1 HP Sleep and Charge);<br />
 : 1 headphone/microphone combo</td>
 </tr>
